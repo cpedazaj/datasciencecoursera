@@ -1,2 +1,2 @@
 # datasciencecoursera
-Dat Science Course
+Data Science Course
